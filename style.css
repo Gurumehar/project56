@@ -1,0 +1,23 @@
+body {
+     text-align: center;
+    background-color: aqua;
+    font-size: 20px
+}
+
+img
+{
+    border: dotted;
+    padding: 20px;
+}
+div{
+    margin-top: 20px
+}
+section style{
+    margin-left: 25px;
+    margin-right:25px;
+    background-color: coral;
+}
+images{
+    display: flex;
+    
+}
